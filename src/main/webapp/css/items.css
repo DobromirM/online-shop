@@ -1,0 +1,161 @@
+.left
+{
+	height: 340vh !important;
+}
+
+.page-text
+{
+	width: 100%;
+	position: relative;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 2vw;
+	margin-top: 5%;
+}
+
+.search
+{
+	width: 100%;
+	position: relative;
+	float: left;
+	margin-bottom: 5%;
+}
+
+.search-bar
+{
+	width: 50%;
+	position: relative;
+	float: left;
+	margin-left: 37%;
+	margin-right: 12%;
+	margin-bottom: 1%
+}
+
+.search-bar input
+{
+	width: 50%;
+	height: 2vw;
+	font-size: 2vw;
+}
+
+.submit-search
+{
+	width: 10%;
+	position: relative;
+	float: left;
+	font-size: 1.4vw;
+	margin-left: 45%;
+}
+
+.items
+{
+	position: relative;
+	float: left;
+	width: 100%;
+	color: white;
+	font-size: 1vw;
+}
+
+.item
+{
+	position: relative;
+	float: left;
+	width: 80%;
+	margin-left: 12.5%;
+	margin-right: 7.5%;
+	margin-bottom: 5%;
+}
+
+.picture
+{
+	position: relative;
+	float: left;
+	width: 15%;
+	margin-bottom: 2%;
+}
+
+.picture img
+{
+	position: relative;
+	float: left;
+	width: 100%;
+	border: 0.15vw solid white;
+}
+
+.code
+{
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.price
+{
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.stock-count
+{
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.description
+{
+	position: relative;
+	float: left;
+	width: 40%;
+	margin-left: 5%;
+	font-size: 1.5vw;
+	border: 0.15vw solid white;
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 3.5%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+.submit
+{
+	position: relative;
+	float: left;
+	width: 25%;
+	border-bottom: solid black 1px;
+	padding: 3.6% 0;
+	background-color: #F0262B;
+    color: #7E0003;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5vw;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    border: none;
+    cursor: pointer;
+}
+
+.submit:hover
+{
+	background-color: #7E0003;
+    color: #F0262B;
+}
+
+.login-notice
+{
+	position: relative;
+	float: left;
+	width: 25%;
+	border-bottom: solid black 1px;
+	padding: 3.90% 0;
+	background-color: #7E0003;
+    color: #F0262B;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2vw;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    border: none;
+}

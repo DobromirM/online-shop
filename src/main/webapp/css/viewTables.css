@@ -1,0 +1,27 @@
+.left
+{
+	height: 320vh !important;
+}
+
+.page-text
+{
+	width: 100%;
+	position: relative;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 2vw;
+	margin-top: 5%;
+}
+
+.table
+{
+	width: 98%;
+	position: relative;
+	float: left;
+	color: white;
+	font-size: 0.9vw;
+	margin-left: 2%;
+	margin-bottom: 5%;
+}
+

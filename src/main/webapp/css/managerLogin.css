@@ -1,0 +1,80 @@
+.page-text
+{
+	width: 100%;
+	position: relative;
+	float: left;
+	text-align: center;
+	color: white;
+	font-size: 2vw;
+	margin-top: 10%;
+}
+
+.num 
+{
+	width: 63%;
+	margin-left: 37%;
+	position: relative;
+	float: left;
+	text-align: left;
+	color: white;
+	font-size: 1.4vw;
+}
+
+.num input
+{
+	height: 2vw;
+	font-size: 1vw;
+}
+
+.pass
+{
+	width: 63%;
+	margin-left: 37%;
+	position: relative;
+	float: left;
+	text-align: left;
+	color: white;
+	font-size: 1.4vw;
+	margin-top: 2%;
+}
+
+.pass input
+{
+	height: 2vw;
+	font-size: 1vw;
+}
+
+.submit
+{
+	position: relative;
+	float: left;
+	font-size: 1.4vw;
+	margin-top: 2%;
+	margin-left: 47%;
+}
+
+.err-msg
+{
+	width: 64%;
+	margin-left: 36%;
+	position: relative;
+	float: left;
+	font-size: 1.5vw;
+	color: red;
+	margin-top: 2%;
+}
+
+#num-err
+{
+	display: none;
+}
+
+#num-incorrect
+{
+	display: none;
+}
+
+#pass-err
+{
+	display: none;
+}

@@ -1,0 +1,40 @@
+.footer 
+{
+	position: relative;
+	float: left;
+	width: 98%;
+	padding: 1%;
+ 	color: white;
+	background-color: #CC070C;
+	font-size: 1vw;
+	height: 7.6vw;
+}
+
+.copyright
+{
+	position: relative;
+    float: left;
+    width: 30%;
+    margin-top: 2%;
+    font-size: 1.5vw;
+}
+
+.resetDB
+{
+	position: relative;
+	float: right;
+	width: 6%;
+	background-color: #F0262B ;
+    color: #7E0003;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1vw;
+    margin: 2%;
+    padding: 1.5%;
+}
+
+.resetDB:hover
+{
+	background-color: #7E0003;
+    color: #F0262B;
+}

@@ -1,0 +1,28 @@
+.page-info
+{
+	position: relative;
+	float: left;
+	width: 53%;
+}
+
+.page-text
+{
+	position: relative;
+	float: left;
+	width: 60%;
+	padding: 20%;
+	font-size: 2vw;
+	text-align: center;
+	color: white;
+}
+
+.page-img
+{
+	position: relative;
+	float: right;
+	width: 37%;
+	margin: 5%;
+	margin-top: 10%;
+}
+
+

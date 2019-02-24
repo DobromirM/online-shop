@@ -1,0 +1,10 @@
+.page-text
+{
+	width: 100%;
+	position: relative;
+	float: left;
+	text-align: center;
+	color: green;
+	font-size: 3vw;
+	margin-top: 10%;
+}

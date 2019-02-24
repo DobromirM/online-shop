@@ -1,0 +1,49 @@
+.left 
+{
+	position: relative;
+	float: left;
+ 	width: 15%;
+ 	text-align: center;
+ 	background-color: #7E0003 ;
+ 	border-right: 1px solid black;
+ 	height: 100vh;
+}
+
+.left-nav
+{
+	position: fixed;
+	float: left;
+	width: 15%;
+	font-size: 2vw;
+}
+
+.left-button
+{
+	position: relative;
+	float: left;
+	width: 100%;
+	border-bottom: solid black 1px;
+	padding:20.15% 0;
+	background-color: #F0262B;
+    color: #7E0003;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.5vw;
+}
+
+.left-button:hover
+{
+	background-color: #7E0003;
+    color: #F0262B;
+}
+
+.left-button:first-child
+{
+	border-top: 1px solid black;
+}
+
+.left-button:last-child
+{
+	margin-bottom: 50%;
+}
+
